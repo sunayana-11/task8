@@ -94,10 +94,9 @@ df.to_csv("Cleaned_Superstore_Sales.csv", index=False)
 
 ### 4. Add Filters
 
-* `Region` (show filter)
-* `Category` (show filter)
-* `Month-Year` (dropdown filter)
-* Applied filters across all worksheets using "Apply to worksheets > All using this data source"
+* `Region`
+* `Category`
+ Applied filters across all worksheets using `"Apply to worksheets > All using this data source"`
 
 ---
 
