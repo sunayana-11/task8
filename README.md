@@ -96,6 +96,7 @@ df.to_csv("Cleaned_Superstore_Sales.csv", index=False)
 
 * `Region`
 * `Category`
+  
  Applied filters across all worksheets using `"Apply to worksheets > All using this data source"`
 
 ---
